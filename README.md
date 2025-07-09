@@ -7,7 +7,7 @@ Species: Musk Turtle
 Nationality: PL/IE
 
 DESC.
-Maly doesn't know japanese, and he has a very VERY weird accent
+Maly doesn't know japanese (he sings everything by reading off a romanji sheet and pronouncing a lot of things wrong), and he has a very VERY weird accent
 
 Download Link:
 [MalyUTAU.zip](https://github.com/user-attachments/files/21149266/MalyUTAU.zip)
